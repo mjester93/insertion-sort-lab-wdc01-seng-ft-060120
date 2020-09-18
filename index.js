@@ -7,7 +7,7 @@ function findMinAndRemove(array){
     }
   }
 
-  return minimum
+  console.log(minimum)
 }
 
 function selectionSort(array){
